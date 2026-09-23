@@ -6,9 +6,9 @@
 - 🔐 Sharpening my security chops through the Kiti Bootcamp at UoN's C4DLab
 - 📄 I like building document automation tools too — Word/PDF generation for Kenyan government services (SHA, KRA, eCitizen) and SME workflows
 - 🎥 I also run a YouTube channel — check it out for behind-the-scenes builds
-- 📫 Reach me: [add your preferred contact — email, LinkedIn, or X]
-- 😄 Pronouns: [add yours]
-- ⚡ Fun fact: [add one]
+- 📫 Reach me: whatsapp: +254725510204 and email: pkor2003@gmail.com
+- 😄 Pronouns: HE
+- ⚡ Fun fact: I LOVE KIDS
 
 <!---
 kirui65/kirui65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
